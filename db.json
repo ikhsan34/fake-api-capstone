@@ -1,45 +1,11 @@
 {
-    "message": "success get all product",
-    "products": [
-        {
-            "id": "63028909-5628-4353-ba85-5849ed5bce6d",
-            "name": "Mouse wireless v2",
-            "description": "Warna",
-            "stock": 0,
-            "price": 50000,
-            "image": "https://capstone-kelompok17.s3.ap-southeast-1.amazonaws.com/download%20%281%29.jfif"
-        },
-        {
-            "id": "651005a7-47a1-4170-ad3a-c6561bd62590",
-            "name": "Mouse wireless",
-            "description": "Warna hitam 5000dpi",
-            "stock": 100,
-            "price": 50000,
-            "image": "https://capstone-kelompok17.s3.ap-southeast-1.amazonaws.com/download%20%281%29.jfif"
-        },
-        {
-            "id": "6e41276f-79b0-418d-bf2e-2d3b351f6fb7",
-            "name": "Mouse wireless v2",
-            "description": "Warna putih 4000dpi",
-            "stock": 100,
-            "price": 50000,
-            "image": "https://capstone-kelompok17.s3.ap-southeast-1.amazonaws.com/download%20%281%29.jfif"
-        },
-        {
-            "id": "c5822533-fa25-4093-a4e1-70c901e2b9fd",
-            "name": "Keyboard putih",
-            "description": "Warna putih",
-            "stock": 0,
-            "price": 50000,
-            "image": "https://capstone-kelompok17.s3.ap-southeast-1.amazonaws.com/download%20%281%29.jfif"
-        },
-        {
-            "id": "d1e9ce93-6f23-497f-b2a6-0bc45f89e7fa",
-            "name": "Keyboard hitam",
-            "description": "Warna putih",
-            "stock": 10,
-            "price": 50000,
-            "image": "https://capstone-kelompok17.s3.ap-southeast-1.amazonaws.com/download%20%281%29.jfif"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
